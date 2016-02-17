@@ -1,0 +1,25 @@
+{
+  "name": "ap-components",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Andrey Savelyev <andrey.savelyev@arsenalmedia.ru>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ap-ui-sass": "ap-ui#*"
+  }
+}
